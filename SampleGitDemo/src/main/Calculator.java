@@ -7,8 +7,8 @@ public class Calculator {
 		System.out.println("Hello World");
 
 	}
-	public static void add(int num1,int num2){
-		System.out.println(num1+num2);
+	public static void add(int n1,int n2){
+		System.out.println(n1+n2);
 	}
 
 }
