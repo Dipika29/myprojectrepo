@@ -20,5 +20,8 @@ public class Calculator {
 	public static void square(int n1){
 		System.out.println(n1*n1);
 	}
+	public static void pow(int n1){
+		System.out.println(n1*n1);
+	}
 
 }
