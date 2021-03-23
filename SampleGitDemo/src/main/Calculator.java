@@ -23,5 +23,8 @@ public class Calculator {
 		System.out.println(n1*n1);
 
 	}
+	public static void pow(int n1){
+		System.out.println(n1*n1);
+	}
 
 }
