@@ -29,5 +29,8 @@ public class Calculator {
 	public static void cube(int n1){
 		System.out.println(n1*n1*n1);
 	}
+	public static void mod(int n1){
+		System.out.println(n1%n1);
+	}
 
 }
